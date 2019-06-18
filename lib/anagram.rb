@@ -10,4 +10,6 @@ class Anagram
       (@word.split("").sort) == (w.split("").sort)
     end
   end
+  
+end
 # Your code goes here!
